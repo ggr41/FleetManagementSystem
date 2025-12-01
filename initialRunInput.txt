@@ -1,0 +1,23 @@
+W
+P
+A
+SAILING,Finesse,1974,Tartan,34,9200.50
+P
+R
+Lost Soul
+R
+BIG BROTHER
+p
+e
+Raptor
+e
+Moon Glow
+3456.78
+p
+e
+moon glow
+2000
+e
+moon Glow
+250
+x
